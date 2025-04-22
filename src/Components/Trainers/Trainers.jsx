@@ -7,32 +7,32 @@ const trainers = [
   {
     name: "John Doe",
     specialty: "Strength Training",
-    img: "/public/Trainer1 (3).jpg",
+    img: "/Trainer1 (3).jpg",
   },
   {
     name: "Sarah Smith",
     specialty: "Weight Loss Coach",
-    img: "/public/Trainer1 (5).jpg",
+    img: "/Trainer1 (5).jpg",
   },
   {
     name: "Michael Brown",
     specialty: "Cardio & Endurance",
-    img: "/public/Trainer1 (4).jpg",
+    img: "/Trainer1 (4).jpg",
   },
   {
     name: "Emily Johnson",
     specialty: "Yoga & Flexibility",
-    img: "/public/Trainer1 (1).jpg",
+    img: "/Trainer1 (1).jpg",
   },
   {
     name: "David Lee",
     specialty: "Bodybuilding Expert",
-    img: "/public/Trainer1 (2).jpg",
+    img: "/Trainer1 (2).jpg",
   },
   {
     name: "Sophia Martinez",
     specialty: "Nutrition & Wellness",
-    img: "/public/Trainer1 (6).jpg",
+    img: "/Trainer1 (6).jpg",
   },
 ];
 
